@@ -1,6 +1,6 @@
 # fridaylab
 
-Tous les vendredis après midi de 14h00 à 17h00, on se retrouve au fridaylab pour travailler ensemble en atelier.
+Le *fridaylab*, c'est un moment ouvert à tous le vendredi après-midi pour travailler ensemble en atelier.
 
 ## 18 mai 2018
 
