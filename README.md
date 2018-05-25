@@ -13,6 +13,10 @@ On peut imaginer :
 
 On peut aussi inviter des personnes d'autres administrations.
 
+## 25 mai 2018 
+
+* [Wiki-data-gouv](https://github.com/etalab/wiki-data-gouv) : On a préparé le déroulé du garagethon du 12 juin autour des collaborations entre Wikidata et Datagouv.
+
 ## 18 mai 2018
 
 * [Blog AGD] : En une après-midi, on a relu les articles du blog AGD pour migrer le blog de Wordpress à Jekyll ! Le résultat est dispo sur la branche `content-only` du repo [agd.data.gouv.fr](https://github.com/etalab/agd.data.gouv.fr/tree/content-only).
