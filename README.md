@@ -16,6 +16,7 @@ On peut aussi inviter des personnes d'autres administrations.
 ## 25 mai 2018 
 
 * [Wiki-data-gouv](https://github.com/etalab/wiki-data-gouv) : On a préparé le déroulé du garagethon du 12 juin autour des collaborations entre Wikidata et Datagouv.
+* [Datafin] : Pour préparer le hackathon #datafin, on a converti la nomenclature comptable commentée (NCC) d'un fichier Excel à 60 onglets à un fichier [CSV simple](https://github.com/pachevalier/tidycge/blob/master/data-raw/tidy_ncc.csv)
 
 ## 18 mai 2018
 
