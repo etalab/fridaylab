@@ -13,6 +13,15 @@ On peut imaginer :
 
 On peut aussi inviter des personnes d'autres administrations.
 
+## 01 juin 2018
+
+- reboot du [simulateur openfisca](https://github.com/openfisca/demonstrator) @taniki et @maukoquiroga
+  - UI ok
+    - Fix documentation : ne pas faire `elm make src/Main.elm` car cela écrase le fichie `index.html`
+  - Problème d'identification de la version de l'[API](https://github.com/openfisca/openfisca-web-api) adaptée à l'UI : test avec la version ~1.3.4
+    - Fix documentation : installser en utilisation la commande `pip install --editable .[paster] OpenFisca-France==16.0.0` pour contourner les problèmes de rétro-compatibilité
+  - Next step : modifier l'UI pour utiliser la dernière version de l'api
+
 ## 25 mai 2018 
 
 * [Wiki-data-gouv](https://github.com/etalab/wiki-data-gouv) : On a préparé le déroulé du garagethon du 12 juin autour des collaborations entre Wikidata et Datagouv.
