@@ -15,7 +15,7 @@ On peut aussi inviter des personnes d'autres administrations.
 
 ## 1er juin
 
-* [Editorial datagouv] : En préparation de la coupe du monde, on a préparé une [petite dataviz]((https://github.com/pachevalier/coupedumonde) à publier sur datagouv
+* [Editorial datagouv] : En préparation de la coupe du monde, on a préparé une [petite dataviz](https://github.com/pachevalier/coupedumonde) à publier sur datagouv
 * [Blog AGD] : En attendant de passer le blog AGD sous Jekyll, on a réparé le [Wordpress](https://agd.data.gouv.fr/)
 * [Openfisca] : Un premier groupe de travail a essayé de relancer l'UI d'openfisca.
 
