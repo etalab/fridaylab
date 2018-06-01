@@ -13,6 +13,12 @@ On peut imaginer :
 
 On peut aussi inviter des personnes d'autres administrations.
 
+## 1er juin
+
+* [Editorial datagouv] : En préparation de la coupe du monde, on a préparé une [petite dataviz]((https://github.com/pachevalier/coupedumonde) à publier sur datagouv
+* [Blog AGD] : En attendant de passer le blog AGD sous Jekyll, on a réparé le [Wordpress](https://agd.data.gouv.fr/)
+* [Openfisca] : Un premier groupe de travail a essayé de relancer l'UI d'openfisca.
+
 ## 25 mai 2018 
 
 * [Wiki-data-gouv](https://github.com/etalab/wiki-data-gouv) : On a préparé le déroulé du garagethon du 12 juin autour des collaborations entre Wikidata et Datagouv.
