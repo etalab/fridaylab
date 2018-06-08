@@ -13,6 +13,10 @@ On peut imaginer :
 
 On peut aussi inviter des personnes d'autres administrations.
 
+## 08 juin 2018 
+
+* Machine à données : On a testé la [Machine à données](http://51.15.221.77/index.php/Home), un service web développé dans le cadre du programme [entrepreneur d'intérêt général](https://github.com/entrepreneur-interet-general) qui permet d'apparier des données avec des référentiels. Initialement, on voulait apparier l'annuaire de l'éducation et le fichier SIRENE mais le ministère de l'Education nationale nous a devancé. Depuis juin, l'[annuaire de l'éducation](https://data.education.gouv.fr/explore/dataset/fr-en-annuaire-education/?disjunctive.type_etablissement) contient les code SIRET associés :).
+
 ## 01 juin 2018
 
 * [Openfisca] : reboot du [simulateur openfisca](https://github.com/openfisca/demonstrator) @taniki et @maukoquiroga
