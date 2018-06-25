@@ -10,6 +10,7 @@ On peut imaginer :
 - Faire une réutilisation d'un jeu de données ouvert dans la semaine
 - Remettre en forme un jeu de données ouvert sur datagouv
 - Préparer un hackathon
+- Atelier dataviz : tester des outils libres et faciles à prendre en main de dataviz (raw, kepler.gl, umap, datawrapper, etc)
 
 On peut aussi inviter des personnes d'autres administrations.
 
