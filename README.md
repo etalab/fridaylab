@@ -19,7 +19,7 @@ On peut aussi inviter des personnes d'autres administrations.
 - Suite des travaux sur la mise en forme des données du [projet de loi de finances](https://www.data.gouv.fr/fr/datasets/projet-de-loi-de-finances-pour-2018-plf-2018-donnees-du-plf-et-des-annexes-projet-annuel-de-performance-pap/#discussion-5b51fed1c751df5e3f17d951).
   - On a créé une [version consolidée des fichiers](https://github.com/etalab/plf/blob/master/budgets_retraites.csv)
   - On a créé un [schéma pour les données du plf](https://github.com/etalab/schema.data.gouv.fr/tree/master/plf)
-  - On a rédigé un blog post sur data.gouv.fr sur la mise en forme des données
+  - On a rédigé un [blog post sur data.gouv.fr](https://www.data.gouv.fr/fr/posts/comment-mettre-en-forme-des-donnees-tabulaires-lexemple-des-donnees-du-projet-de-loi-de-finances-1/) sur la mise en forme des données
 
 ## 13 juillet 2018 
 
