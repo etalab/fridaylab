@@ -14,6 +14,13 @@ On peut imaginer :
 
 On peut aussi inviter des personnes d'autres administrations.
 
+## 20 juillet 2018 
+
+- Suite des travaux sur la mise en forme des données du [projet de loi de finances](https://www.data.gouv.fr/fr/datasets/projet-de-loi-de-finances-pour-2018-plf-2018-donnees-du-plf-et-des-annexes-projet-annuel-de-performance-pap/#discussion-5b51fed1c751df5e3f17d951).
+  - On a créé une [version consolidée des fichiers](https://github.com/etalab/plf/blob/master/budgets_retraites.csv)
+  - On a créé un [schéma pour les données du plf](https://github.com/etalab/schema.data.gouv.fr/tree/master/plf)
+  - On a rédigé un blog post sur data.gouv.fr sur la mise en forme des données
+
 ## 13 juillet 2018 
 
 - Atelier mise en forme des données de la direction du budget (DB) et de la direction générale des finances publiques (DGFIP). Suite au hackathon datafin, nous avons réfléchi à la bonne manière de publier les [données du compte général de l'Etat](https://www.data.gouv.fr/fr/datasets/donnees-de-comptabilite-generale-de-letat/) et du [projet de loi de finances](https://www.data.gouv.fr/fr/datasets/projet-de-loi-de-finances-pour-2018-plf-2018-donnees-du-plf-et-des-annexes-projet-annuel-de-performance-pap/), en s'inspirant notamment des réflexions d'Hadley Wickham sur les [*tidy-data*](http://vita.had.co.nz/papers/tidy-data.pdf). A suivre...
