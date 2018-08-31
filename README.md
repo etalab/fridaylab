@@ -12,7 +12,7 @@ On peut imaginer :
 - Préparer un hackathon
 - Atelier dataviz : tester des outils libres et faciles à prendre en main de dataviz (raw, kepler.gl, umap, datawrapper, etc)
 
-On peut aussi inviter des personnes d'autres administrations.
+C'est aussi l'occasion d'inviter et de travailler avec d'autres administrations.
 
 ## 31 août 2018
 
