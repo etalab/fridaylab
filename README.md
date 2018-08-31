@@ -14,6 +14,10 @@ On peut imaginer :
 
 On peut aussi inviter des personnes d'autres administrations.
 
+## 31 août 2018
+
+* On a créé une v0 de la page d'onboarding à Etalab : [Bienvenue à Etalab](https://github.com/etalab/etalab/blob/master/bienvenue.md)
+
 ## 20 juillet 2018 
 
 - Suite des travaux sur la mise en forme des données du [projet de loi de finances](https://www.data.gouv.fr/fr/datasets/projet-de-loi-de-finances-pour-2018-plf-2018-donnees-du-plf-et-des-annexes-projet-annuel-de-performance-pap/#discussion-5b51fed1c751df5e3f17d951).
